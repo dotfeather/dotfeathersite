@@ -1,2 +1,0 @@
-# dotfeathersite
-MockSiteMap
